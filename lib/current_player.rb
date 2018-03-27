@@ -8,3 +8,8 @@ def turn_count (board)
   end
   turn
 end
+
+#Determines if its "X" or "O" turn
+def current_player (board)
+  
+end
