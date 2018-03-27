@@ -11,5 +11,5 @@ end
 
 #Determines if its "X" or "O" turn
 def current_player (board)
-  
+  if 
 end
